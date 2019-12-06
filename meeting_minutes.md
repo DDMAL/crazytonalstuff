@@ -1,3 +1,0 @@
-# Meeting Minutes
-
-Some notes!
