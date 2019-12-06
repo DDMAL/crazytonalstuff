@@ -2,7 +2,7 @@
 
 We are currently working on the following projects:
 
-- A dataset of [Mendelssohn String Quartets](https://github.com/DDMAL/felix_quartets_got_annotated))
+- A dataset of [Mendelssohn String Quartets](https://github.com/DDMAL/felix_quartets_got_annotated)
 - A dataset of [key modulations](https://github.com/DDMAL/key_modulation_dataset)
 - A project of translation of figured bass annotations into chord labels
 
